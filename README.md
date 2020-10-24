@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 <img src="https://recordit.co/atMrATKQzW.gif" width=250><br>
 
-### Notes
+### Challenge
 Installing AlamofireImage has been a huge unexpected challenge. 
 Even after cleaning the build and re-building, manually building the framework, 
 and deleting the 'derived data' folder, I was still receiving 100+ errors on Xcode, 
